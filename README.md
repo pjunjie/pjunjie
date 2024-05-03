@@ -1,14 +1,4 @@
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>彭俊杰</title>
-
-    <meta name="author" content="彭俊杰">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    
-</head>
-<body>
             <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <tr style="padding:0px">
         <td style="padding:0px">
@@ -25,13 +15,10 @@
                   本科生
                 </p>
                 <p>
-                  软件学院
+                  山东大学软件学院
                 </p>
                 <p>
-                  山东大学
-                </p>
-                <p>
-                  pengjunjie@mail.sdu.edu.cn
+                  联系方式: pengjunjie@mail.sdu.edu.cn
                 </p>
               </td>
             </tr>
@@ -56,4 +43,3 @@
 <p>🌱个人网站：<a style="color:#476f83" href="https://pjunjie.github.io">https://pjunjie.github.io</a></p>
 <p>🌱github：<a style="color:#476f83" href="https://github.com/pjunjie">https://github.com/pjunjie</a></p>
 
-</body>
