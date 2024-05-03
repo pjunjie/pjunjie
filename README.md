@@ -1,3 +1,17 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>彭俊杰</title>
+
+    <meta name="author" content="彭俊杰">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+</head>
+<body>
+            <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr style="padding:0px">
               <td style="padding:2.5%;width:40%;max-width:40%">
@@ -22,6 +36,7 @@
               </td>
             </tr>
           </tbody></table>
+        </td></tr></tbody></table>
 
 ## Biography
 <p>我是彭俊杰, 目前是<a style="color:#476f83" href="https://www.sdu.edu.cn/index.htm">山东大学</a>软件学院的三年级本科生, 由<a style="color:#476f83" href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">许信顺</a>教授领导的山东大学机器学习与媒体分析实验室(MIMA)的一员, 在<a style="color:#476f83" href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">罗昕</a>副教授的指导下首次尝试了系统的科学研究, 培养了对学术研究的兴趣，获得了一定的学术能力和审美。<b>我目前正在寻找2025年秋季硕士或博士学位。</b> </p>
@@ -40,3 +55,5 @@
 ## Links
 <p>🌱个人网站：<a style="color:#476f83" href="https://pjunjie.github.io">https://pjunjie.github.io</a></p>
 <p>🌱github：<a style="color:#476f83" href="https://github.com/pjunjie">https://github.com/pjunjie</a></p>
+
+</body>
