@@ -9,8 +9,8 @@
 </ul>
 
 ## Awards
-<p>山东大学学业二等奖学金, 2022</p>
-<p>山东大学学业三等奖学金, 2021</p>
+<p>山东大学学业二等奖学金, 2023</p>
+<p>山东大学学业三等奖学金, 2022</p>
 
 ## Links
 <p>个人网站：<a style="color:#476f83" href="https://pjunjie.github.io">https://pjunjie.github.io</a></p>
