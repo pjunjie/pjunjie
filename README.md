@@ -35,6 +35,6 @@
 <p>山东大学学业三等奖学金, 2021</p>
 
 ## Links
-<p>🌱个人网站：<a style="color:#476f83" href="https://pjunjie.github.io">https://pjunjie.github.io</a></p>
-<p>🌱github：<a style="color:#476f83" href="https://github.com/pjunjie">https://github.com/pjunjie</a></p>
+<p>个人网站：<a style="color:#476f83" href="https://pjunjie.github.io">https://pjunjie.github.io</a></p>
+<p>github：<a style="color:#476f83" href="https://github.com/pjunjie">https://github.com/pjunjie</a></p>
 
