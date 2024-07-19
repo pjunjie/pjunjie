@@ -9,7 +9,7 @@
 </ul>
 
 ## Research
-<p>在罗昕副教授的指导下, 针对流式跨媒体数据检索中的层次类别增量问题进行了研究, 通过独立进行论文阅读, 理论推导, 编写代码进行实验检验等工作, 学习了机器学习哈希学习领域知识, 加深了对类增量问题的理解, 对跨媒体计算有一定的了解。目前有一篇我是<b>独立第一作者的论文产出</b>, 论文原稿在导师处审校和准备投稿<b>The 39th Annual AAAI Conference on Artificial Intelligence（AAAI,CCF-A）</b></p>
+<p>在罗昕老师的指导下, 针对流式跨媒体数据检索中的层次类别增量问题进行了研究, 通过独立进行论文阅读, 理论推导, 编写代码进行实验检验等工作, 学习了机器学习哈希学习领域知识, 加深了对类增量问题的理解, 对跨媒体计算有一定的了解。目前有一篇我是<b>独立第一作者的论文产出</b>, 论文原稿在导师处审校和准备投稿<b>The 39th Annual AAAI Conference on Artificial Intelligence（AAAI,CCF-A）</b></p>
 
 ## Project
 <p>论文复现 - GrabCut: Interactive Foreground Extraction using Iterated Graph Cuts</p>
