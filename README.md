@@ -1,5 +1,5 @@
 ## Biography
-<p>我是彭俊杰, 目前是<a style="color:#476f83" href="https://www.sdu.edu.cn/index.htm">山东大学</a>软件学院的三年级本科生, 是由<a style="color:#476f83" href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">许信顺</a>教授领导的山东大学机器学习与媒体分析实验室(MIMA)的科研助手, 在<a style="color:#476f83" href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">罗昕</a>副教授的指导下首次尝试了系统的科学研究, 培养了对学术研究的兴趣，获得了一定的学术能力和审美。<b>我目前正在寻找2025年秋季硕士或博士学位。</b> 联系方式: pengjunjie@mail.sdu.edu.cn </p>
+<p>我是彭俊杰, 目前是<a style="color:#476f83" href="https://www.sdu.edu.cn/index.htm">山东大学</a>软件学院的三年级本科生, 是由<a style="color:#476f83" href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">许信顺</a>教授领导的山东大学机器学习与媒体分析实验室(MIMA)的科研助手, 在<a style="color:#476f83" href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">罗昕</a>老师的指导下首次尝试了系统的科学研究, 培养了对学术研究的兴趣，获得了一定的学术能力和审美。<b>我目前正在寻找2025年秋季硕士或博士学位。</b> 联系方式: pengjunjie@mail.sdu.edu.cn </p>
 
 ## Research Interests
 <p>我目前对如何通过机器学习哈希学习方法进行内容检索感兴趣，该方法旨在将图片或者文本等待检索内容进行二进制编码，再与数据库中其他已编码的图像或文本内容的二进制码比较汉明距离，从而在数据库中找到与待检索图像或文本最相似最相关的图像或文本内容，大大节约了数据存储空间和提高了检索效率。因此，我目前的研究兴趣包括:</p>
